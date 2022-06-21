@@ -1,0 +1,21 @@
+How do I read a DOCX file in JavaScript?
+Reading PDF, XLS, XLSX, DOC, DOCX, CSV, TXT files content in NODEJS
+
+File Reader module. Now create a filereader. js file. This file is responsible for reading the file content.
+File Read APIs. Now filereader. js is ready, Now import it in the module where we are going to read the files.
+How do I convert a Word document to HTML using Python?
+Convert word to html using python with python-mammoth
+
+Go to https://drive.google.com.
+Import your document: can be word or excel.
+Open this document on google drive, you will go to a new tab which show the editor for this document (we still on google drive)
+Click on File > Download as > Web page (.html, .zipped) and you can download current document under zip format.
+How do I make a DOCX file?
+How to Create DocX Files
+
+Download and install any trial version of Microsoft Office 2007 (see Resources).
+Purchase Microsoft Office 2007.
+Use the Microsoft 2007 online try-before-you-buy to test drive Word and other Office products online without having to install (see Resources).
+Go to the “Start” button and create a new document.
+How do you upload a DOCX file to node?
+This middleware is designed for handling the multipart/form-data.
